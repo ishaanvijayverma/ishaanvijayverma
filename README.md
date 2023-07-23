@@ -6,4 +6,4 @@ I'm a software engineer passionate about making contributing to open-source more
 ## Find me around the web 🌎: 
 - Sharing updates on  <a href="https://www.linkedin.com/in/ishaanvijayverma/">LinkedIn</a>
 - Code at <a href="https://www.hackerrank.com/ishaanvijayverma"> HackerRank</a> 🏓
-- Stream games at <a href="https://www.youtube.com/@DaysInGTAV">LinkedIn</a> 💼
+- Stream games at <a href="https://www.youtube.com/@DaysInGTAV">YouTube</a> 💼
